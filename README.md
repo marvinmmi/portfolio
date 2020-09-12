@@ -24,7 +24,7 @@ http://localhost:4200/
 
 ### Création d'un composant
 
-ng g component <nom du component>
+ng g component [nom du component]
   
 ## Materialize
  
